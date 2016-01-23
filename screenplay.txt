@@ -135,6 +135,4 @@ Ode to Joy
 THE END
 
 
-THIS IS A CHANGE BY BENNETT BUCHANAN, but now it is also a change by mason fish. "random text"
-
-
+THIS IS A CHANGE BY BENNETT BUCHANAN, but now it is also a change by mason fish. ""
