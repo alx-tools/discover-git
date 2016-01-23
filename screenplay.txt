@@ -71,9 +71,10 @@ Tempus Fugit! I gotta go!
 
 (AMY exits...)
 
+
 DAVID
 
-Do you like pizza?
+I didn't know that you could use SSH keys to authenticate. Do you like pizza?
 
 NAOMI
 
