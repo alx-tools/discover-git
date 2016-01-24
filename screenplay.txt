@@ -1,4 +1,4 @@
-A FIRST DAY AT HOLBERTON SCHOOL
+﻿A FIRST DAY AT HOLBERTON SCHOOL
 >>Steven Garcia Was here!!
 DAY 0
 Bilal is here!!!!!
@@ -115,7 +115,10 @@ Integer turpis turpis, consequat id auctor at, elementum ut neque. Donec eleifen
 MARINE
 Who's Amy?
 
-FADE OUT, CURAIN GOES DOWN :).
+SOHAM
+I have the same question.
+
+FADE OUT, CURTAIN GOES DOWN :).
 
 Finally, everyone shouted... "We had an awesome day.... Amazing days ahead..."
 
